@@ -75,8 +75,3 @@ You can easily modify:
 MIT License © 2025 **Treasure Raider Game**
 
 ---
-
-✅ **Next Steps:**
-
-- 🔥 I'll create the **logo** and **banner**.
-- 🚀 Suggest a **name** and write the **description**.
